@@ -143,67 +143,67 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Twitter",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "The Offical Street Wise Media Twitter Page",
     tags: [
       {
-        name: "react",
+        name: "3DArtist",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "WEB3DEV",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "NFTs",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://twitter.com/strwisemedia",
   },
   {
-    name: "Job IT",
+    name: "YouTube",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "The Official Street Wise Media YouTube Channel.",
     tags: [
       {
-        name: "react",
+        name: "VideoGraphy",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "MotionGraphics",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Vlog",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://youtube.com/strwisemedia",
   },
   {
-    name: "Trip Guide",
+    name: "Facebook",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "The Official Street Wise Media Facebook Page.",
     tags: [
       {
-        name: "nextjs",
+        name: "Personal",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Human",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Life",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://www.facebook.com/StreetWiseMedia/",
   },
 ];
 
