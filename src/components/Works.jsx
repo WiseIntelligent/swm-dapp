@@ -80,7 +80,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          You find us on
+          You can find us on
         </motion.p>
       </div>
 
