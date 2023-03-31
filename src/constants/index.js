@@ -114,6 +114,11 @@ const technologies = [
   },
 ];
 
+const experiences = [
+  {
+    
+  },
+];
 const testimonials = [
   {
     testimonial:
